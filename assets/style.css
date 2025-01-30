@@ -3,3 +3,9 @@ body{
 	background-color: #222324;
 	color: white;
 }
+
+img{
+	max-width: 50%;
+	height: auto;
+	width: auto;
+}
